@@ -16,6 +16,5 @@
   <li> В появившемся списке нажать кнопку "Это устройство..." </li>
   <li> Выбрать файл с диаграммой </li>
     <ul> <br> <br>
-Email: anastasiya.gorbunova88@gmail.com
-      <ul> <br> <br>
+Email: anastasiya.gorbunova88@gmail.com <ul> <br>
 Студентка группы ИВ1-21 Горбунова Анастасия
