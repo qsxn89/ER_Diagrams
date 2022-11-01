@@ -17,4 +17,5 @@
   <li> Выбрать файл с диаграммой </li>
     <ul> <br> <br>
 Email: anastasiya.gorbunova88@gmail.com
+      <ul> <br> <br>
 Студентка группы ИВ1-21 Горбунова Анастасия
